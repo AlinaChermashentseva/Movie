@@ -1,0 +1,10 @@
+C:\Users\cherm\source\repos\movie\movie\bin\Debug\Task_6__Animation_.exe.config
+C:\Users\cherm\source\repos\movie\movie\bin\Debug\Task_6__Animation_.exe
+C:\Users\cherm\source\repos\movie\movie\bin\Debug\Task_6__Animation_.pdb
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\movie.csprojAssemblyReference.cache
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\Task_6__Animation_.Properties.Resources.resources
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\movie.csproj.GenerateResource.cache
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\movie.csproj.CoreCompileInputs.cache
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\Task_6__Animation_.exe
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\Task_6__Animation_.pdb
+C:\Users\cherm\source\repos\movie\movie\obj\Debug\Task_6__Animation_.MainForm.resources
